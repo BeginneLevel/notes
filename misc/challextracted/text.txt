@@ -1,1 +1,0 @@
-RAID is a set of algorithms for writing data blocks to disk devices.RAID 1, or mirroring, is used to provide high reliability and fault tolerance
